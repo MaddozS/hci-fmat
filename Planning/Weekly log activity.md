@@ -1,3 +1,6 @@
-13 feb 2023
+# Weekly Log Activity
+
+## 13 feb 2023
+
 The data collection method was defined, which will be a survey that we will send to the students of the faculty. A draft of questions was created which we will refine to transfer it to a Google Forms and start conducting the survey.
 Later we will finish the survey, and we would begin to distribute it to a large number of people and then as a team analyze the results and define our conclusions.
