@@ -32,6 +32,6 @@ We were working in the first delivery video, with collecting information about o
 | Task                                                     | Responsible   | Status |
 | -------------------------------------------------------- | ------------- | ------ |
 | Redefine our survey to recolect data of our new approach | Irving Poot   | To do  |
-| Define a interview to recolect data                      | Axel Anaya    | To Do  |
-| Apply the interview                                      | Raymundo Mora | To Do  |
+| Define a interview to recolect data                      | Raymundo Mora | To Do  |
+| Apply the interview                                      | Axel Anaya    | To Do  |
 | Compare our old data with the data from the interview    | Steven Chen   | To Do  |
