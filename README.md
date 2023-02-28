@@ -26,6 +26,10 @@ The team members are:
 
 - [Natalia Castillo - Our Persona](https://github.com/MaddozS/hci-fmat/blob/main/Persona%20Profile.pdf)
 
+## Delivery
+
+- [First Delivery Video Presentation](https://www.youtube.com/watch?v=l_xnPBCGPp4)
+
 ## Reflective diaries
 
 As required by the profesor, we have to do some reflection about different topics related to HCI. All the reflections done by each member of the team can be found [here](https://github.com/MaddozS/hci-fmat/tree/main/Reflections/).
