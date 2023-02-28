@@ -19,7 +19,7 @@ The team members are:
 
 ### We had two sources for planning:
 
-- 📅 [GitHub Projects](https://github.com/users/MaddozS/projects/1) Using an Kanban table to organize our individual task
+- 📅 [GitHub Projects](https://github.com/users/MaddozS/projects/1/views/5) Using an Kanban table to organize our individual task
 - 📅 [Log in Markdown](https://github.com/MaddozS/hci-fmat/blob/main/Planning/Planning.md) Provides a weekly summary of planned tasks by the team.
 
 ## Products
