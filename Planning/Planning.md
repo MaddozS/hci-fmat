@@ -11,17 +11,27 @@ The tasks involved in completing the project are grouped into weekly efforts, wh
 
 ## Week 2: 13/02/22 - 17/02/22
 
-| Task                             | Responsible | Status      |
-| -------------------------------- | ----------- | ----------- |
-| Define the workflow of the tasks | Axel Anaya  | Done        |
-| Identify our Persona             | Irving Poot | Done        |
-| Research about social cohesion   | Steven Chen | In progress |
+| Task                             | Responsible    | Status |
+| -------------------------------- | -------------- | ------ |
+| Define the workflow of the tasks | Axel Anaya     | Done   |
+| Identify our Persona             | Irving Poot    | Done   |
+| Research about social cohesion   | Steven Chen    | Done   |
+| Apply the survey                 | Antonio Martín | Done   |
 
 ## Week 3: 20/02/22 - 24/02/22
 
-| Task                                        | Responsible    | Status      |
-| ------------------------------------------- | -------------- | ----------- |
-| Apply the survey                            | Antonio Martín | In progress |
-| Define our requirements and functionalities | Apoquinto      | In progress |
-| First Delivery: Script                      | Everyone       | In progress |
-| First Delivery: Video                       | Steven Chen    | In progress |
+| Task                          | Responsible    | Status      |
+| ----------------------------- | -------------- | ----------- |
+| First Delivery: Script        | Everyone       | Done        |
+| First Delivery: Video editing | Roberto Llanes | In progress |
+
+## Week 4: 27/02/22 - 03/03/22
+
+We were working in the first delivery video, with collecting information about our observational research, like our Persona and experiences of our team members. We will start working doing some changes in that data recollected, because we notice may not be relevant for our project, so we will redo our survey, work on an interview with people who organizes communities/projects and hopefully, with the data recollected, refine our persona and initial requirements
+
+| Task                                                     | Responsible   | Status |
+| -------------------------------------------------------- | ------------- | ------ |
+| Redefine our survey to recolect data of our new approach | Irving Poot   | To do  |
+| Define a interview to recolect data                      | Raymundo Mora | To Do  |
+| Apply the interview                                      | Axel Anaya    | To Do  |
+| Compare our old data with the data from the interview    | Steven Chen   | To Do  |

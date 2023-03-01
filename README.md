@@ -19,13 +19,19 @@ The team members are:
 
 ### We had two sources for planning:
 
-- 📅 [GitHub Projects](https://github.com/users/MaddozS/projects/1) Using an Kanban table to organize our individual task
-- 📅 [Log in Markdown](https://github.com/MaddozS/hci-fmat/blob/main/Planning/Planning.md) Provides a weekly summary of planned tasks by the team.
+- 📅 [GitHub Projects](https://github.com/users/MaddozS/projects/1/views/5) Using an Kanban table to organize our individual task
+- 📅 [Log in Markdown](Planning/Planning.md) Provides a weekly summary of planned tasks by the team.
+
+Also, we define a Fibonacci Score for each task, the individual contribution for each delivery and scores can be found [here](Planning/Metrics.md)
 
 ## Products
 
 - [Requirements](Artifacts/Requirements.md)
-- [Natalia Castillo - Our Persona](https://github.com/MaddozS/hci-fmat/blob/main/Persona%20Profile.pdf)
+- [Natalia Castillo - Our Persona](Artifacts/Persona%20Profile.pdf)
+
+## Delivery
+
+- [First Delivery Video Presentation](https://www.youtube.com/watch?v=l_xnPBCGPp4)
 
 ## Reflective diaries
 
