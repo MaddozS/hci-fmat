@@ -26,6 +26,7 @@ Also, we define a Fibonacci Score for each task, the individual contribution for
 
 ## Products
 
+- [Requirements](Artifacts/Requirements.md)
 - [Natalia Castillo - Our Persona](Artifacts/Persona%20Profile.pdf)
 
 ## Delivery
