@@ -46,12 +46,12 @@ The metric we choose is using [Story Points](https://help.ducalis.io/knowledge-b
 
 ### Individual Contribution Metric
 
-| Member         | First Delivery | % of total |
-| -------------- | -------------- | ---------- |
-| Axel Anaya     | 4              | 30.77%     |
-| Irving Poot    | 3              | 23.08%     |
-| Steven Chen    | 3              | 23.08%     |
-| Antonio Martín | 0              | 0.00%      |
-| Roberto Llanes | 0              | 0.00%      |
-| Raymundo Mora  | 3              | 23.08%     |
-| Total          | 13             | 100%       |
+| Member         | Second Delivery | % of total |
+| -------------- | --------------- | ---------- |
+| Axel Anaya     | 4               | 30.77%     |
+| Irving Poot    | 3               | 23.08%     |
+| Steven Chen    | 3               | 23.08%     |
+| Antonio Martín | 0               | 0.00%      |
+| Roberto Llanes | 0               | 0.00%      |
+| Raymundo Mora  | 3               | 23.08%     |
+| Total          | 13              | 100%       |
