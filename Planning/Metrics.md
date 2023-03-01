@@ -16,7 +16,10 @@ The metric we choose is using [Story Points](https://help.ducalis.io/knowledge-b
 | Apply the survey                               | 0          | 0           | 0           | 3              | 0              | 0             |
 | First Delivery: Script                         | 13         | 13          | 13          | 13             | 13             | 13            |
 | First Delivery: Video editing                  | 0          | 0           | 0           | 0              | 21             | 0             |
-| Total                                          | 19         | 21          | 16          | 16             | 34             | 16            |
+| Planning Week 1                                | 1          | 0           | 0           | 0              | 0              | 0             |
+| Planning Week 2                                | 1          | 0           | 0           | 0              | 0              | 0             |
+| Planning Week 3                                | 1          | 0           | 0           | 0              | 0              | 0             |
+| Total                                          | 25         | 27          | 22          | 22             | 40             | 19            |
 
 ### Individual Contribution Metric
 
@@ -38,16 +41,17 @@ The metric we choose is using [Story Points](https://help.ducalis.io/knowledge-b
 | Define a interview to recolect data                      | 0          | 0           | 0           | 0              | 0              | 3             |
 | Apply the interview                                      | 3          | 0           | 0           | 0              | 0              | 0             |
 | Compare our old data with the data from the interview    | 0          | 0           | 3           | 0              | 0              | 0             |
-| Total                                                    | 3          | 3           | 3           | 0              | 0              | 3             |
+| Planning Week 4                                          | 1          | 0           | 0           | 0              | 0              | 0             |
+| Total                                                    | 4          | 3           | 3           | 0              | 0              | 3             |
 
 ### Individual Contribution Metric
 
-| Member         | Second Delivery | % of total |
-| -------------- | --------------- | ---------- |
-| Axel Anaya     | 3               | 25%        |
-| Irving Poot    | 3               | 25%        |
-| Steven Chen    | 3               | 25%        |
-| Antonio Martín | 0               | 0%         |
-| Roberto Llanes | 0               | 0%         |
-| Raymundo Mora  | 3               | 25%        |
-| Total          | 12              | 100%       |
+| Member         | First Delivery | % of total |
+| -------------- | -------------- | ---------- |
+| Axel Anaya     | 4              | 30.77%     |
+| Irving Poot    | 3              | 23.08%     |
+| Steven Chen    | 3              | 23.08%     |
+| Antonio Martín | 0              | 0.00%      |
+| Roberto Llanes | 0              | 0.00%      |
+| Raymundo Mora  | 3              | 23.08%     |
+| Total          | 13             | 100%       |
