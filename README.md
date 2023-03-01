@@ -24,6 +24,7 @@ The team members are:
 
 ## Products
 
+- [Requirements](Artifacts/Requirements.md)
 - [Natalia Castillo - Our Persona](https://github.com/MaddozS/hci-fmat/blob/main/Persona%20Profile.pdf)
 
 ## Reflective diaries
