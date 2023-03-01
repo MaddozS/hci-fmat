@@ -1,10 +1,23 @@
-# Metrics
+# 📈 Metrics
 
 The metrics will evaluate the contribution and progress of each member by deliveries, defined by professor Edgar Cambranes.
 
-The metric we choose is using [Story Points](https://help.ducalis.io/knowledge-base/story-points-how-fibonacci-sequence-works-for-agile-estimation/) to weigth te complexity of the tasks, after that, we will sum up all the points of the delivery and get the Individual Contribution Metric of each member by delivery, if multiple member of the team work in the same tasks, we count the task with the same points for each member working on that
+The metric we choose is using [Fibonacci Story Points](https://help.ducalis.io/knowledge-base/story-points-how-fibonacci-sequence-works-for-agile-estimation/) to weigth te complexity of the tasks, after that, we will sum up all the points of the delivery and get the Individual Contribution Metric of each member by delivery, if two or more members of the team work in a task at the same time, we count will count the points of the task for each member.
 
-## First Delivery
+### Fibonacci Story Points
+
+The next table shows the Fibonacci sequence, and the complexity of each number, also, the task cannot have less points as Estimated Hours to Completion. This means, if a task is estimated to be completed in 3 hours, it cannot have less than 3 points.
+
+| Story Points | Complexity |
+| ------------ | ---------- |
+| 1, 2         | Trivial    |
+| 3, 5         | Simple     |
+| 8, 13        | Medium     |
+| 21, 34+      | Complex    |
+
+## 📝 First Delivery
+
+This table will only show the points of the tasks and how many points each member has in the first delivery.
 
 | Task                                           | Axel Anaya | Irving Poot | Steven Chen | Antonio Martín | Roberto Llanes | Raymundo Mora |
 | ---------------------------------------------- | ---------- | ----------- | ----------- | -------------- | -------------- | ------------- |
@@ -33,7 +46,9 @@ The metric we choose is using [Story Points](https://help.ducalis.io/knowledge-b
 | Raymundo Mora  | 16             | 13.11%     |
 | Total          | 122            | 100%       |
 
-## Second Delivery [In Progress]
+## 📝 Second Delivery [In Progress 🚧]
+
+This table will only show the points of the tasks and how many points each member has in the second delivery.
 
 | Task                                                     | Axel Anaya | Irving Poot | Steven Chen | Antonio Martín | Roberto Llanes | Raymundo Mora |
 | -------------------------------------------------------- | ---------- | ----------- | ----------- | -------------- | -------------- | ------------- |
