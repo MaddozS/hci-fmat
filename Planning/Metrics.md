@@ -38,13 +38,13 @@ This table will only show the points of the tasks and how many points each membe
 
 | Member         | First Delivery | % of total |
 | -------------- | -------------- | ---------- |
-| Axel Anaya     | 19             | 15.58%     |
-| Irving Poot    | 21             | 17.21%     |
-| Steven Chen    | 16             | 13.11%     |
-| Antonio Martín | 16             | 13.11%     |
-| Roberto Llanes | 34             | 27.87%     |
-| Raymundo Mora  | 16             | 13.11%     |
-| Total          | 122            | 100%       |
+| Axel Anaya     | 25             | 16.13%     |
+| Irving Poot    | 27             | 17.42%     |
+| Steven Chen    | 22             | 14.19%     |
+| Antonio Martín | 22             | 14.19%     |
+| Roberto Llanes | 40             | 25.81%     |
+| Raymundo Mora  | 19             | 12.26%     |
+| Total          | 155            | 100%       |
 
 ## 📝 Second Delivery [In Progress 🚧]
 
@@ -53,8 +53,8 @@ This table will only show the points of the tasks and how many points each membe
 | Task                                                     | Axel Anaya | Irving Poot | Steven Chen | Antonio Martín | Roberto Llanes | Raymundo Mora |
 | -------------------------------------------------------- | ---------- | ----------- | ----------- | -------------- | -------------- | ------------- |
 | Redefine our survey to recolect data of our new approach | 0          | 3           | 0           | 0              | 0              | 0             |
-| Define a interview to recolect data                      | 0          | 0           | 0           | 0              | 0              | 3             |
-| Apply the interview                                      | 3          | 0           | 0           | 0              | 0              | 0             |
+| Define a interview to recolect data                      | 3          | 0           | 0           | 0              | 0              | 0             |
+| Apply the interview                                      | 0          | 0           | 0           | 0              | 0              | 3             |
 | Compare our old data with the data from the interview    | 0          | 0           | 3           | 0              | 0              | 0             |
 | Planning Week 4                                          | 1          | 0           | 0           | 0              | 0              | 0             |
 | Total                                                    | 4          | 3           | 3           | 0              | 0              | 3             |
