@@ -25,7 +25,9 @@ The tasks involved in completing the project are grouped into weekly efforts, wh
 | First Delivery: Script        | Everyone       | Done        |
 | First Delivery: Video editing | Roberto Llanes | In progress |
 
-## Week 4: 27/02/22 - 03/03/22
+## Week 3: 27/02/22 - 03/03/22
+
+| **NOTE** We will ignore the first week because in that week we did have a planning with the teacher
 
 We were working in the first delivery video, with collecting information about our observational research, like our Persona and experiences of our team members. We will start working doing some changes in that data recollected, because we notice may not be relevant for our project, so we will redo our survey, work on an interview with people who organizes communities/projects and hopefully, with the data recollected, refine our persona and initial requirements
 
