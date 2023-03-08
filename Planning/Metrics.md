@@ -54,8 +54,8 @@ This table will only show the points of the tasks and how many points each membe
 | Task                                                     | Axel Anaya | Irving Poot | Steven Chen | Antonio Martín | Roberto Llanes | Raymundo Mora |
 | -------------------------------------------------------- | ---------- | ----------- | ----------- | -------------- | -------------- | ------------- |
 | Redefine our survey to recolect data of our new approach | 0          | 3           | 0           | 0              | 0              | 0             |
-| Define a interview to recolect data                      | 0          | 0           | 0           | 0              | 0              | 3             |
-| Apply the interview                                      | 3          | 0           | 0           | 0              | 0              | 0             |
+| Define a interview to recolect data                      | 3          | 0           | 0           | 0              | 0              | 0             |
+| Apply the interview                                      | 0          | 0           | 0           | 0              | 0              | 3             |
 | Compare our old data with the data from the interview    | 0          | 0           | 3           | 0              | 0              | 0             |
 | Planning Week 4                                          | 1          | 0           | 0           | 0              | 0              | 0             |
 | Total                                                    | 4          | 3           | 3           | 0              | 0              | 3             |
