@@ -41,9 +41,11 @@ We were working in the first delivery video, with collecting information about o
 
 ## Week 4: 06/03/22 - 10/03/22
 
-| Task                                                                        | Responsible                                               | Status         |
-| --------------------------------------------------------------------------- | --------------------------------------------------------- | -------------- |
-| Define the first version of the Software Requirement Specification          | Axel Anaya                                                | 📝 To Do       |
-| Define our project objectives and problematic based on the data recollected | Antonio Martin, Roberto Llanes                            | 📝 To Do       |
-| Sharon Interview: Her problematic and project idea                          | Antonio Martin, Roberto Llanes, Raymundo Mora,Steven Chen | Backlog        |
-| Analyze the information from the interview                                  | Raymundo Mora                                             | 🚧 In Progress |
+| Task                                                                        | Responsible                                                | Status         |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------- |
+| Analyze the data collected from the surveys                                 | Steven Chen                                                | ✅ Done        |
+| Define the first version of the Software Requirement Specification          | Axel Anaya                                                 | 📝 To Do       |
+| Define our project objectives and problematic based on the data recollected | Antonio Martin, Roberto Llanes                             | 📝 To Do       |
+| Sharon Interview: problematic and project idea                              | Irving Poot, Antonio Martin, Roberto Llanes, Raymundo Mora | 📝 To Do       |
+| Analyze the information from the interview                                  | Raymundo Mora                                              | 📝 To Do       |
+| Planning Week 4                                                             | Axel Anaya                                                 | 🚧 In Progress |

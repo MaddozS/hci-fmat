@@ -54,30 +54,32 @@ This table will only show the points of the tasks and how many points each membe
 | Task                                                                        | Axel Anaya | Irving Poot | Steven Chen | Antonio Martín | Roberto Llanes | Raymundo Mora |                |
 | --------------------------------------------------------------------------- | ---------- | ----------- | ----------- | -------------- | -------------- | ------------- | -------------- |
 | WEEK 3                                                                      |            |             |             |                |                |               | STATUS         |
-| Redefine our survey to recolect data of our new approach                    | 0          | 3           | 0           | 0              | 0              | 0             | 🚧 In Progress |
-| Define a interview to recolect data                                         | 3          | 0           | 0           | 0              | 0              | 0             | ✅ Done        |
+| Apply the survey                                                            | 0          | 0           | 0           | 2              | 0              | 0             | ✅ Done        |
 | Apply the interview                                                         | 0          | 0           | 0           | 0              | 0              | 3             | ✅ Done        |
-| Compare our old data with the data from the interview                       | 0          | 0           | 3           | 0              | 0              | 0             | ✅ Done        |
-| Planning Week 3 (old week 4)                                                | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done        |
-| Total of the week                                                           | 4          | 3           | 3           | 0              | 0              | 3             |                |
+| Redefine our survey to new collect new data                                 | 0          | 2           | 0           | 0              | 0              | 0             | ✅ Done        |
+| Define a interview to recolect new data                                     | 2          | 0           | 0           | 0              | 0              | 0             | ✅ Done        |
+| Planning Week 3                                                             | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done        |
+| Total of the week                                                           | 3          | 2           | 0           | 0              | 0              | 0             |                |
 |                                                                             |            |             |             |                |                |               |                |
 | WEEK 4                                                                      |            |             |             |                |                |               | STATUS         |
+| Analyze the data collected from the surveys                                 | 0          | 0           | 3           | 0              | 0              | 0             | ✅ Done        |
 | Define the first version of the Software Requirement Specification          | 2          | 0           | 0           | 0              | 0              | 0             | 📝 To Do       |
 | Define our project objectives and problematic based on the data recollected | 0          | 0           | 0           | 2              | 2              | 0             | 📝 To Do       |
-| Sharon Interview: Her problematic and project idea                          | 0          | 1           | 1           | 1              | 1              | 1             | Backlog        |
-| Analyze the information from the interview                                  | 0          | 0           | 0           | 0              | 0              | 2             | 🚧 In Progress |
-| Total of the week                                                           | 2          | 1           | 1           | 3              | 3              | 3             |                |
+| Sharon Interview: problematic and project idea                              | 0          | 1           | 1           | 1              | 1              | 1             | 📝 To Do       |
+| Analyze the information from the interview                                  | 0          | 0           | 0           | 0              | 0              | 3             | 📝 To Do       |
+| Planning Week 4                                                             | 1          | 0           | 0           | 0              | 0              | 0             | 🚧 In Progress |
+| Total of the week                                                           | 2          | 1           | 4           | 3              | 3              | 4             |                |
 |                                                                             |            |             |             |                |                |               |                |
-| Total                                                                       | 6          | 4           | 4           | 3              | 3              | 6             |
+| Total                                                                       | 5          | 3           | 4           | 3              | 3              | 4             |
 
 ### Individual Contribution Metric
 
 | Member         | Second Delivery | % of total |
 | -------------- | --------------- | ---------- |
-| Axel Anaya     | 6               | 23.08%     |
-| Irving Poot    | 4               | 15.38%     |
-| Steven Chen    | 4               | 15.38%     |
-| Antonio Martín | 3               | 11.54%     |
-| Roberto Llanes | 3               | 11.54%     |
-| Raymundo Mora  | 6               | 23.08%     |
-| Total          | 26              | 100%       |
+| Axel Anaya     | 5               | 22.73%     |
+| Irving Poot    | 3               | 13.64%     |
+| Steven Chen    | 4               | 18.18%     |
+| Antonio Martín | 3               | 13.64%     |
+| Roberto Llanes | 3               | 13.64%     |
+| Raymundo Mora  | 4               | 18.18%     |
+| Total          | 22              | 100%       |
