@@ -31,9 +31,19 @@ The tasks involved in completing the project are grouped into weekly efforts, wh
 
 We were working in the first delivery video, with collecting information about our observational research, like our Persona and experiences of our team members. We will start working doing some changes in that data recollected, because we notice may not be relevant for our project, so we will redo our survey, work on an interview with people who organizes communities/projects and hopefully, with the data recollected, refine our persona and initial requirements
 
-| Task                                                     | Responsible   | Status |
-| -------------------------------------------------------- | ------------- | ------ |
-| Redefine our survey to recolect data of our new approach | Irving Poot   | To do  |
-| Define a interview to recolect data                      | Raymundo Mora | To Do  |
-| Apply the interview                                      | Axel Anaya    | To Do  |
-| Compare our old data with the data from the interview    | Steven Chen   | To Do  |
+| Task                                                     | Responsible   | Status         |
+| -------------------------------------------------------- | ------------- | -------------- |
+| Redefine our survey to recolect data of our new approach | Irving Poot   | ✅ Done        |
+| Define a interview to recolect data                      | Axel Anaya    | ✅ Done        |
+| Apply the interview                                      | Raymundo Mora | 🚧 In Progress |
+| Compare our old data with the data from the interview    | Steven Chen   | ✅ Done        |
+| Planning Week 3 (old week 4)                             | Axel Anaya    | ✅ Done        |
+
+## Week 4: 06/03/22 - 10/03/22
+
+| Task                                                                        | Responsible                                               | Status         |
+| --------------------------------------------------------------------------- | --------------------------------------------------------- | -------------- |
+| Define the first version of the Software Requirement Specification          | Axel Anaya                                                | 📝 To Do       |
+| Define our project objectives and problematic based on the data recollected | Antonio Martin, Roberto Llanes                            | 📝 To Do       |
+| Sharon Interview: Her problematic and project idea                          | Antonio Martin, Roberto Llanes, Raymundo Mora,Steven Chen | Backlog        |
+| Analyze the information from the interview                                  | Raymundo Mora                                             | 🚧 In Progress |

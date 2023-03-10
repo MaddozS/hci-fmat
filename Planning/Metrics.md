@@ -53,27 +53,31 @@ This table will only show the points of the tasks and how many points each membe
 
 | Task                                                                        | Axel Anaya | Irving Poot | Steven Chen | Antonio Martín | Roberto Llanes | Raymundo Mora |                |
 | --------------------------------------------------------------------------- | ---------- | ----------- | ----------- | -------------- | -------------- | ------------- | -------------- |
-| WEEK 4                                                                      |            |             |             |                |                |               | STATUS         |
-| Redefine our survey to recolect data of our new approach                    | 0          | 3           | 0           | 0              | 0              | 0             | ✅ Done        |
+| WEEK 3                                                                      |            |             |             |                |                |               | STATUS         |
+| Redefine our survey to recolect data of our new approach                    | 0          | 3           | 0           | 0              | 0              | 0             | 🚧 In Progress |
 | Define a interview to recolect data                                         | 3          | 0           | 0           | 0              | 0              | 0             | ✅ Done        |
-| Apply the interview                                                         | 0          | 0           | 0           | 0              | 0              | 3             | 🚧 In Progress |
+| Apply the interview                                                         | 0          | 0           | 0           | 0              | 0              | 3             | ✅ Done        |
 | Compare our old data with the data from the interview                       | 0          | 0           | 3           | 0              | 0              | 0             | ✅ Done        |
+| Planning Week 3 (old week 4)                                                | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done        |
+| Total of the week                                                           | 4          | 3           | 3           | 0              | 0              | 3             |                |
+|                                                                             |            |             |             |                |                |               |                |
+| WEEK 4                                                                      |            |             |             |                |                |               | STATUS         |
 | Define the first version of the Software Requirement Specification          | 2          | 0           | 0           | 0              | 0              | 0             | 📝 To Do       |
 | Define our project objectives and problematic based on the data recollected | 0          | 0           | 0           | 2              | 2              | 0             | 📝 To Do       |
+| Sharon Interview: Her problematic and project idea                          | 0          | 1           | 1           | 1              | 1              | 1             | Backlog        |
 | Analyze the information from the interview                                  | 0          | 0           | 0           | 0              | 0              | 2             | 🚧 In Progress |
-| Planning Week 4                                                             | 1          | 0           | 0           | 0              | 0              | 0             | 🚧 In Progress |
-| ---Total Week 4---                                                          | 6          | 3           | 3           | 2              | 2              | 5             |                |
+| Total of the week                                                           | 2          | 1           | 1           | 3              | 3              | 3             |                |
 |                                                                             |            |             |             |                |                |               |                |
-| Total                                                                       | 6          | 3           | 3           | 2              | 2              | 5             |                |
+| Total                                                                       | 6          | 4           | 4           | 3              | 3              | 6             |
 
 ### Individual Contribution Metric
 
 | Member         | Second Delivery | % of total |
 | -------------- | --------------- | ---------- |
-| Axel Anaya     | 6               | 28.57%     |
-| Irving Poot    | 3               | 14.29%     |
-| Steven Chen    | 3               | 14.29%     |
-| Antonio Martín | 2               | 9.52%      |
-| Roberto Llanes | 2               | 9.52%      |
-| Raymundo Mora  | 5               | 23.81%     |
-| Total          | 21              | 100%       |
+| Axel Anaya     | 6               | 23.08%     |
+| Irving Poot    | 4               | 15.38%     |
+| Steven Chen    | 4               | 15.38%     |
+| Antonio Martín | 3               | 11.54%     |
+| Roberto Llanes | 3               | 11.54%     |
+| Raymundo Mora  | 6               | 23.08%     |
+| Total          | 26              | 100%       |
