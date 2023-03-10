@@ -21,6 +21,7 @@ This table will only show the points of the tasks and how many points each membe
 
 | Task                                           | Axel Anaya | Irving Poot | Steven Chen | Antonio Martín | Roberto Llanes | Raymundo Mora |
 | ---------------------------------------------- | ---------- | ----------- | ----------- | -------------- | -------------- | ------------- |
+| Definition of the project                      | 0          | 0           | 0           | 0              | 3              | 3             |
 | Definition of core concepts of the problematic | 3          | 3           | 3           | 3              | 3              | 3             |
 | Work in the survey to identify our uses        | 3          | 3           | 3           | 3              | 3              | 3             |
 | Define the workflow of the tasks               | 3          | 0           | 0           | 0              | 0              | 0             |
@@ -32,19 +33,19 @@ This table will only show the points of the tasks and how many points each membe
 | Planning Week 1                                | 1          | 0           | 0           | 0              | 0              | 0             |
 | Planning Week 2                                | 1          | 0           | 0           | 0              | 0              | 0             |
 | Planning Week 3                                | 1          | 0           | 0           | 0              | 0              | 0             |
-| Total                                          | 25         | 27          | 22          | 22             | 40             | 19            |
+| Total                                          | 25         | 27          | 22          | 22             | 43             | 22            |
 
 ### Individual Contribution Metric
 
 | Member         | First Delivery | % of total |
 | -------------- | -------------- | ---------- |
-| Axel Anaya     | 19             | 15.58%     |
-| Irving Poot    | 21             | 17.21%     |
-| Steven Chen    | 16             | 13.11%     |
-| Antonio Martín | 16             | 13.11%     |
-| Roberto Llanes | 34             | 27.87%     |
-| Raymundo Mora  | 16             | 13.11%     |
-| Total          | 122            | 100%       |
+| Axel Anaya     | 25             | 15.52%     |
+| Irving Poot    | 27             | 16.77%     |
+| Steven Chen    | 22             | 13.66%     |
+| Antonio Martín | 22             | 13.66%     |
+| Roberto Llanes | 43             | 26.70%     |
+| Raymundo Mora  | 22             | 13.66%     |
+| Total          | 161            | 100%       |
 
 ## 📝 Second Delivery [In Progress 🚧]
 
