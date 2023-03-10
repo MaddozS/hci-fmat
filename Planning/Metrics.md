@@ -15,7 +15,7 @@ The next table shows the Fibonacci sequence, and the complexity of each number, 
 | 8, 13        | Medium     |
 | 21, 34+      | Complex    |
 
-## 📝 First Delivery
+## 📝 First Delivery [Done ✅]
 
 This table will only show the points of the tasks and how many points each member has in the first delivery.
 
@@ -50,23 +50,29 @@ This table will only show the points of the tasks and how many points each membe
 
 This table will only show the points of the tasks and how many points each member has in the second delivery.
 
-| Task                                                     | Axel Anaya | Irving Poot | Steven Chen | Antonio Martín | Roberto Llanes | Raymundo Mora |
-| -------------------------------------------------------- | ---------- | ----------- | ----------- | -------------- | -------------- | ------------- |
-| Redefine our survey to recolect data of our new approach | 0          | 3           | 0           | 0              | 0              | 0             |
-| Define a interview to recolect data                      | 0          | 0           | 0           | 0              | 0              | 3             |
-| Apply the interview                                      | 3          | 0           | 0           | 0              | 0              | 0             |
-| Compare our old data with the data from the interview    | 0          | 0           | 3           | 0              | 0              | 0             |
-| Planning Week 4                                          | 1          | 0           | 0           | 0              | 0              | 0             |
-| Total                                                    | 4          | 3           | 3           | 0              | 0              | 3             |
+| Task                                                                        | Axel Anaya | Irving Poot | Steven Chen | Antonio Martín | Roberto Llanes | Raymundo Mora |                |
+| --------------------------------------------------------------------------- | ---------- | ----------- | ----------- | -------------- | -------------- | ------------- | -------------- |
+| WEEK 4                                                                      |            |             |             |                |                |               | STATUS         |
+| Redefine our survey to recolect data of our new approach                    | 0          | 3           | 0           | 0              | 0              | 0             | ✅ Done        |
+| Define a interview to recolect data                                         | 3          | 0           | 0           | 0              | 0              | 0             | ✅ Done        |
+| Apply the interview                                                         | 0          | 0           | 0           | 0              | 0              | 3             | 🚧 In Progress |
+| Compare our old data with the data from the interview                       | 0          | 0           | 3           | 0              | 0              | 0             | ✅ Done        |
+| Define the first version of the Software Requirement Specification          | 2          | 0           | 0           | 0              | 0              | 0             | 📝 To Do       |
+| Define our project objectives and problematic based on the data recollected | 0          | 0           | 0           | 2              | 2              | 0             | 📝 To Do       |
+| Analyze the information from the interview                                  | 0          | 0           | 0           | 0              | 0              | 2             | 🚧 In Progress |
+| Planning Week 4                                                             | 1          | 0           | 0           | 0              | 0              | 0             | 🚧 In Progress |
+| ---Total Week 4---                                                          | 6          | 3           | 3           | 2              | 2              | 5             |                |
+|                                                                             |            |             |             |                |                |               |                |
+| Total                                                                       | 6          | 3           | 3           | 2              | 2              | 5             |                |
 
 ### Individual Contribution Metric
 
 | Member         | Second Delivery | % of total |
 | -------------- | --------------- | ---------- |
-| Axel Anaya     | 4               | 30.77%     |
-| Irving Poot    | 3               | 23.08%     |
-| Steven Chen    | 3               | 23.08%     |
-| Antonio Martín | 0               | 0.00%      |
-| Roberto Llanes | 0               | 0.00%      |
-| Raymundo Mora  | 3               | 23.08%     |
-| Total          | 13              | 100%       |
+| Axel Anaya     | 6               | 28.57%     |
+| Irving Poot    | 3               | 14.29%     |
+| Steven Chen    | 3               | 14.29%     |
+| Antonio Martín | 2               | 9.52%      |
+| Roberto Llanes | 2               | 9.52%      |
+| Raymundo Mora  | 5               | 23.81%     |
+| Total          | 21              | 100%       |
