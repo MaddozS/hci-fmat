@@ -1,6 +1,6 @@
-# hci-fmat
+# Itivas
 
-This repository contains the **_artifacts, documentation and products_** for the HCI 2023 course of the Software Engineering major at UADY, FMAT
+This repository contains the **_artifacts, instruments, documentation and products_** for the HCI 2023 course of the Software Engineering major at UADY, FMAT
 
 ## Project Design
 
