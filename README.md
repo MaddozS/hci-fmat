@@ -28,6 +28,11 @@ Also, we define a Fibonacci Score for each task, the individual contribution for
 
 - [Requirements](Artifacts/Requirements.md)
 - [Natalia Castillo - Our Persona](Artifacts/Persona%20Profile.pdf)
+- [Software Requirement Specification](https://docs.google.com/document/d/1ixKyyl27_yUNarjqch0HmAOMek8bJX1Y/edit?usp=sharing&ouid=112688572299281125157&rtpof=true&sd=true)
+
+## Prototypes
+
+- [Wireframes](https://www.figma.com/file/27uvw2CDjEvAWJhQnQGpM4/Itivas?node-id=101%3A227&t=0LNd3COhUHOeVRqO-1)
 
 ## Delivery
 
