@@ -14,3 +14,7 @@ We were working in the first delivery video, with collecting information about o
 ## 06 march 2023
 
 We were working on improving our instruments to recopile better data that suits our problematic, and we start recompiling data with student of FMAT, we will finish this week getting the data from the interviews and have a meeting with the teacher Sharon about her project and her perspective, also we will start, with the new data, improving our artifacts like the personas, and hopefully start working getting the requirements of the project.
+
+## 13 march 2023
+
+We worked getting better information about our community, now, after some interviews and survey we got a better understanding of need that might need to be covered with our project, with this in mind we will work this week in our Software Requirement Specification document
