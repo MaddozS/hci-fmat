@@ -547,6 +547,7 @@ footer a {
 
 As we can see, even we provide context that the design is for mobile, it still looks a bit weird. Let's adjust it to be more mobile-like. With Figma, we can do this with adding a Frame with the size of the mobile device we want to design for. In this case, we'll use the iPhone 14. Also we resize the content and add auto-layout.
 
+_Click on the image to see the video_
 [![figma 3](images/figma_ai_4.png)](https://youtu.be/5ZCJx43-Zio)
 
 ## Conclusions
