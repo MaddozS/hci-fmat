@@ -550,6 +550,12 @@ As we can see, even we provide context that the design is for mobile, it still l
 _Click on the image to see the video_
 [![figma 3](images/figma_ai_4.png)](https://youtu.be/5ZCJx43-Zio)
 
+## Comparing our design with the generated one
+
+![figma human 1](images/figma_human_1.png)
+
+As we can see, these is a lot of differences with the design, the most obvious one is the header. Also the our design does not consider the recommended groups, so we can count that as a win for the AI. However, just with the context provided, the AI managed to create a very similiar design with the same requirements (after some adjustments).
+
 ## Conclusions
 
 As we can see, the use of AI in design can be very useful. We can use it to generate a design that and then adjust to our needs. We can also use it to generate a design that we can use as a starting point for our own design like we did in this document. Maybe with better prompts, context and more relevant information we can get better results. But for now, it's a good starting point to understant how to use this technology.
