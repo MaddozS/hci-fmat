@@ -37,6 +37,7 @@ Also, we define a Fibonacci Score for each task, the individual contribution for
 ## Delivery
 
 - [First Delivery Video Presentation](https://www.youtube.com/watch?v=l_xnPBCGPp4)
+- [Second Delivery Video Presentation](https://youtu.be/mgKs_KRnbRo)
 
 ## Reflective diaries
 
