@@ -51,35 +51,77 @@ This table will only show the points of the tasks and how many points each membe
 
 This table will only show the points of the tasks and how many points each member has in the second delivery.
 
-| Task                                                                        | Axel Anaya | Irving Poot | Steven Chen | Antonio Martín | Roberto Llanes | Raymundo Mora |                |
-| --------------------------------------------------------------------------- | ---------- | ----------- | ----------- | -------------- | -------------- | ------------- | -------------- |
-| WEEK 3                                                                      |            |             |             |                |                |               | STATUS         |
-| Apply the survey                                                            | 0          | 0           | 0           | 2              | 0              | 0             | ✅ Done        |
-| Apply the interview                                                         | 0          | 0           | 0           | 0              | 0              | 3             | ✅ Done        |
-| Redefine our survey to new collect new data                                 | 0          | 2           | 0           | 0              | 0              | 0             | ✅ Done        |
-| Define a interview to recolect new data                                     | 2          | 0           | 0           | 0              | 0              | 0             | ✅ Done        |
-| Planning Week 3                                                             | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done        |
-| Total of the week                                                           | 3          | 2           | 0           | 0              | 0              | 0             |                |
-|                                                                             |            |             |             |                |                |               |                |
-| WEEK 4                                                                      |            |             |             |                |                |               | STATUS         |
-| Analyze the data collected from the surveys                                 | 0          | 0           | 3           | 0              | 0              | 0             | ✅ Done        |
-| Define the first version of the Software Requirement Specification          | 2          | 0           | 0           | 0              | 0              | 0             | 📝 To Do       |
-| Define our project objectives and problematic based on the data recollected | 0          | 0           | 0           | 2              | 2              | 0             | 📝 To Do       |
-| Sharon Interview: problematic and project idea                              | 0          | 1           | 1           | 1              | 1              | 1             | 📝 To Do       |
-| Analyze the information from the interview                                  | 0          | 0           | 0           | 0              | 0              | 3             | 📝 To Do       |
-| Planning Week 4                                                             | 1          | 0           | 0           | 0              | 0              | 0             | 🚧 In Progress |
-| Total of the week                                                           | 2          | 1           | 4           | 3              | 3              | 4             |                |
-|                                                                             |            |             |             |                |                |               |                |
-| Total                                                                       | 5          | 3           | 4           | 3              | 3              | 4             |
+| Task                                                                        | Axel Anaya | Irving Poot | Steven Chen | Antonio Martín | Roberto Llanes | Raymundo Mora |         |
+| --------------------------------------------------------------------------- | ---------- | ----------- | ----------- | -------------- | -------------- | ------------- | ------- |
+| WEEK 3                                                                      |            |             |             |                |                |               | STATUS  |
+| Apply the survey                                                            | 0          | 0           | 0           | 2              | 0              | 0             | ✅ Done |
+| Apply the interview                                                         | 0          | 0           | 0           | 0              | 0              | 5             | ✅ Done |
+| Redefine our survey to new collect new data                                 | 0          | 2           | 0           | 0              | 0              | 0             | ✅ Done |
+| Define a interview to recolect new data                                     | 2          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Planning Week 3                                                             | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Total of the week                                                           | 3          | 2           | 0           | 2              | 0              | 5             |         |
+|                                                                             |            |             |             |                |                |               |         |
+| WEEK 4                                                                      |            |             |             |                |                |               | STATUS  |
+| Analyze the data collected from the surveys                                 | 0          | 0           | 3           | 0              | 0              | 0             | ✅ Done |
+| Define template of the Software Requirement Specification                   | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Define our project objectives and problematic based on the data recollected | 0          | 0           | 0           | 2              | 2              | 0             | ✅ Done |
+| Sharon Interview: problematic and project idea                              | 0          | 0           | 1           | 0              | 0              | 3             | ✅ Done |
+| Analyze the information from the interviews done by "community leaders."    | 0          | 0           | 0           | 0              | 0              | 5             | ✅ Done |
+| Planning Week 4                                                             | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Total of the week                                                           | 2          | 0           | 4           | 2              | 2              | 8             |         |
+|                                                                             |            |             |             |                |                |               |         |
+| WEEK 5                                                                      |            |             |             |                |                |               | STATUS  |
+| Define the usability/nonfunctional requirements of the system               | 5          | 5           | 5           | 5              | 5              | 5             | ✅ Done |
+| Software Requirements Specification Document                                | 0          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Define the features of the system                                           | 5          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Define the users/actors of the system                                       | 2          | 2           | 0           | 0              | 2              | 0             | ✅ Done |
+| Define UI style guide of the system                                         | 0          | 0           | 0           | 0              | 0              | 0             | Backlog |
+| Planning Week 5                                                             | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Total of the week                                                           | 13         | 7           | 5           | 5              | 7              | 5             |         |
+|                                                                             |            |             |             |                |                |               |         |
+| WEEK 6                                                                      |            |             |             |                |                |               | STATUS  |
+| Define the Use Cases for the Initial View                                   | 0          | 0           | 0           | 0              | 0              | 3             | ✅ Done |
+| Planning Week 6                                                             | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Define the Use Cases for the Main Dashboard                                 | 0          | 3           | 0           | 0              | 0              | 0             | ✅ Done |
+| Define the Use Cases for the Community/Group Directory                      | 0          | 0           | 3           | 0              | 0              | 0             | ✅ Done |
+| Define the Use Cases for the User Profile                                   | 0          | 0           | 0           | 3              | 0              | 0             | ✅ Done |
+| Define the Use Cases for the Event Calendar                                 | 0          | 0           | 0           | 0              | 3              | 0             | ✅ Done |
+| Define the Use Cases for the Student-led group administration               | 3          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Define the Use Cases for the Feedback and Rating System                     | 0          | 0           | 0           | 0              | 0              | 3             | ✅ Done |
+| Total of the week                                                           | 4          | 3           | 3           | 3              | 3              | 6             |         |
+|                                                                             |            |             |             |                |                |               |         |
+| WEEK 7                                                                      |            |             |             |                |                |               | STATUS  |
+| Week 7 / Planning                                                           | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Define Initial Page Prototypes                                              | 0          | 0           | 0           | 0              | 2              | 0             | ✅ Done |
+| Define Main Dashboard Prototypes                                            | 0          | 0           | 0           | 0              | 1              | 0             | ✅ Done |
+| Define User Profile Prototypes                                              | 2          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Define Groups prototypes                                                    | 3          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Define Events prototypes                                                    | 3          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Wireframe prototypes                                                        | 0          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Total of the week                                                           | 9          | 0           | 0           | 0              | 3              | 0             |         |
+|                                                                             |            |             |             |                |                |               |         |
+| WEEK 8                                                                      |            |             |             |                |                |               | STATUS  |
+| Video Script                                                                | 0          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Video Script - Introduction and Requirements                                | 0          | 2           | 0           | 0              | 0              | 0             | ✅ Done |
+| Video Script - Design and prototyping                                       | 0          | 0           | 0           | 0              | 0              | 2             | ✅ Done |
+| Video Script - Minor adjustments                                            | 0          | 0           | 0           | 1              | 0              | 0             | ✅ Done |
+| Video Script - English translation                                          | 0          | 0           | 1           | 0              | 0              | 0             | ✅ Done |
+| Create the visuals for the second delivery video                            | 0          | 0           | 0           | 0              | 8              | 0             | ✅ Done |
+| Create the audios for the second delivery video                             | 0          | 0           | 2           | 0              | 0              | 0             | ✅ Done |
+| Second delivery video                                                       | 0          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Week 8 / Planning                                                           | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Total of the week                                                           | 1          | 2           | 3           | 1              | 8              | 2             |         |
+|                                                                             |            |             |             |                |                |               |         |
+| Total                                                                       | 32         | 14          | 15          | 13             | 23             | 26            |
 
 ### Individual Contribution Metric
 
 | Member         | Second Delivery | % of total |
 | -------------- | --------------- | ---------- |
-| Axel Anaya     | 5               | 22.73%     |
-| Irving Poot    | 3               | 13.64%     |
-| Steven Chen    | 4               | 18.18%     |
-| Antonio Martín | 3               | 13.64%     |
-| Roberto Llanes | 3               | 13.64%     |
-| Raymundo Mora  | 4               | 18.18%     |
-| Total          | 22              | 100%       |
+| Axel Anaya     | 32              | 26.02%     |
+| Irving Poot    | 14              | 11.38%     |
+| Steven Chen    | 15              | 12.20%     |
+| Antonio Martín | 13              | 10.57%     |
+| Roberto Llanes | 23              | 18.70%     |
+| Raymundo Mora  | 26              | 21.14%     |
+| Total          | 123             | 100%       |

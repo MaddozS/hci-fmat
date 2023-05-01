@@ -1,0 +1,9 @@
+# UI vs UX
+
+Talking about UI/UX can be somewhat complicated if you don't have a certain approach to the design area. Confusion usually arises because they are part of the same coin. The UI refers to the visual and functional part of a website, including elements such as design, navigation, and interactivity. UX, on the other hand, focuses on the overall user experience when interacting with a website, including ease of use, customer satisfaction, and positive emotions associated with the user experience. In simple terms, UI is the visual and functional part of a website, while UX focuses on the overall user experience when interacting with that site. It is important to understand the difference between these two concepts in order to create a better product and brand.
+
+Let's take an event as an example. For our event, what we want is to give the user a simple presentation so they can know: what is the event? what is it about? when is it? where is it? To do this, we created a card structure as a preview and put the events together in a carousel. This simplification is considered the UI part.
+
+On the other hand, UX comes into play when we want to give meaning to that structure. What we propose is the composition of that basic structure. In this case, what we want is to encourage participation in events. Therefore, the first thing we want to do is group events in that carousel that are compatible with the user's profile. Then we would put other categories or sections with different perspectives, such as the closest or by proximity.
+
+In the end, the point is that UI provides a basic structure, and UX allows us to modify its meaning and ultimately how the user feels.

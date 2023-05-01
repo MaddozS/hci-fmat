@@ -1,0 +1,7 @@
+# UI Design Patterns
+
+When we started designing the application, we made a lot of mistakes, the first of which was to overload the information we presented to the user. Initially, it seemed like a good idea to allow the user to compare information at a glance, but unintentionally we ended up overwhelming the user. We realized this when we ourselves became dizzy from so much information on one screen.
+
+To solve this, our priority was to synthesize the information and save it in "layers". We deemed it appropriate to separate the presentation of information / breakdown of information / complicated options and configurations. The solution seemed useful to us and we decided to apply it wherever possible. At that time, we didn't know it, but we were using a UI design pattern called progressive disclosure. It consists of grouping information and revealing it to the user as needed. In our case, the first layer is the presentation, which allows the user to decide whether or not they are interested.
+
+We used the second layer to present information with more space and focus on a single thing, and we used the last layer to provide additional options for the processes we already have, such as editing/modifying information. This not only simplified our process, but also helped us standardize the structure that is present throughout the design of our application.

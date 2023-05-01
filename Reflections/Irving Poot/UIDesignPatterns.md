@@ -1,0 +1,8 @@
+# UIDesignPatterns
+So far we have not implemented any Design Pattern, but I think we could use the _Modal_ pattern, which is a design pattern used to display content or functionality in a separate window that floats above the main interface.
+
+One example of how the Modal pattern could be used in this project is when a user wants to create a new event. Instead of taking the user to a separate page or screen, a Modal window could be used to display the necessary form fields and allow the user to input the required information. This would allow the user to remain on the same page and have a more streamlined experience, while also providing a clear and focused interface for inputting event information.
+
+If the team did not consider using the Modal pattern, it may be relevant to revisit the design and consider implementing it. By doing so, the team could improve the usability of the platform by providing a more intuitive and focused interface for creating events. Additionally, the use of the Modal pattern could also help reduce the cognitive load on users by eliminating the need to navigate to a new page or screen.
+
+On the other hand, if the team did consider and implement the Modal pattern for creating events, it could be beneficial to extend its use to other areas of the platform where it would be relevant. For example, a Modal window could also be used when registering for an event, allowing users to quickly input their information without having to navigate to a separate page or screen.

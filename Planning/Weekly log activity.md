@@ -18,3 +18,15 @@ We were working on improving our instruments to recopile better data that suits 
 ## 13 march 2023
 
 We worked getting better information about our community, now, after some interviews and survey we got a better understanding of need that might need to be covered with our project, with this in mind we will work this week in our Software Requirement Specification document
+
+## 20 march 2023
+
+This week we will continue to work in our system requirements, like our use cases and our non funcional requirements, also we will start to work defining some wireframes/mock ups the system based on the finished UC
+
+## 27 march 2023
+
+This week will working refining our system requirement specification for our application, finish our wireframes, and start defining some indicators for test our mock ups to verify our non funcional requirements, also all the team members we will work in the Second Delivery Video (script and visuals)
+
+## 03 april 2023
+
+This week we will work in the second delivery video and organizing our repository
