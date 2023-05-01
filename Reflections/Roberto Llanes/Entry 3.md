@@ -1,0 +1,9 @@
+# BorrowedTechniques
+
+Human-Computer Interaction (HCI) is a multidisciplinary field that encompasses various research areas and methodologies. One of the strengths of HCI is its ability to borrow techniques and methods from different fields and apply them to the design and evaluation of interactive systems. One example of this is the use of observation techniques in HCI, which were originally part of ethnographic research in anthropology.
+
+Ethnographic research is a qualitative research method that involves observing and studying people in their natural settings to understand their culture, behavior, and social interactions. The main purpose of ethnographic research is to gain insights into the lives of the people being studied, and to use those insights to inform the design of products, services, or policies that are better suited to their needs.
+
+Observation techniques, such as participant observation and non-participant observation, have been adapted into the HCI field to gain insights into users' behavior and interactions with technology. In HCI, observation is used to identify user needs, understand how users interact with technology, and evaluate the usability of interactive systems. Observational studies can be conducted in naturalistic or controlled settings, depending on the research questions and goals.
+
+The main advantage of using observation techniques in HCI is that they provide rich and detailed data about user behavior and interactions with technology. Observational data can help designers and developers understand user needs, identify usability issues, and inform design decisions. However, there are also some limitations and challenges to using observation in HCI. For example, it can be difficult to capture all relevant behaviors and interactions, and there may be ethical concerns around observing users without their consent.
