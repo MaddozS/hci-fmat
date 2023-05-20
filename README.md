@@ -39,6 +39,18 @@ Also, we define a Fibonacci Score for each task, the individual contribution for
 - [First Delivery Video Presentation](https://www.youtube.com/watch?v=l_xnPBCGPp4)
 - [Second Delivery Video Presentation](https://youtu.be/mgKs_KRnbRo)
 
+## Contribution percentage
+
+| Member         | First Delivery | Second Delivery | Final Delivery | % of total |
+| -------------- | -------------- | --------------- | -------------- | ---------- |
+| Axel Anaya     | 25             | 32              | 14             | 21.13%     |
+| Irving Poot    | 27             | 14              | 7              | 14.29%     |
+| Steven Chen    | 22             | 15              | 9              | 13.69%     |
+| Antonio Martín | 22             | 13              | 6              | 12.20%     |
+| Roberto Llanes | 43             | 23              | 8              | 22.02%     |
+| Raymundo Mora  | 22             | 26              | 8              | 16.67%     |
+| Total          | 161            | 123             | 52             | 100%       |
+
 ## Reflective diaries
 
 As required by the profesor, we have to do some reflection about different topics related to HCI. All the reflections done by each member of the team can be found [here](https://github.com/MaddozS/hci-fmat/tree/main/Reflections/).
