@@ -62,13 +62,13 @@ This table will only show the points of the tasks and how many points each membe
 | Total of the week                                                           | 3          | 2           | 0           | 2              | 0              | 5             |         |
 |                                                                             |            |             |             |                |                |               |         |
 | WEEK 4                                                                      |            |             |             |                |                |               | STATUS  |
-| Analyze the data collected from the surveys                                 | 0          | 0           | 3           | 0              | 0              | 0             | ✅ Done |
+| Analyze the data collected from the surveys                                 | 0          | 3           | 3           | 0              | 0              | 0             | ✅ Done |
 | Define template of the Software Requirement Specification                   | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
 | Define our project objectives and problematic based on the data recollected | 0          | 0           | 0           | 2              | 2              | 0             | ✅ Done |
-| Sharon Interview: problematic and project idea                              | 0          | 0           | 1           | 0              | 0              | 3             | ✅ Done |
+| Sharon Interview: problematic and project idea                              | 0          | 0           | 3           | 0              | 0              | 3             | ✅ Done |
 | Analyze the information from the interviews done by "community leaders."    | 0          | 0           | 0           | 0              | 0              | 5             | ✅ Done |
 | Planning Week 4                                                             | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
-| Total of the week                                                           | 2          | 0           | 4           | 2              | 2              | 8             |         |
+| Total of the week                                                           | 2          | 3           | 6           | 2              | 2              | 8             |         |
 |                                                                             |            |             |             |                |                |               |         |
 | WEEK 5                                                                      |            |             |             |                |                |               | STATUS  |
 | Define the usability/nonfunctional requirements of the system               | 5          | 5           | 5           | 5              | 5              | 5             | ✅ Done |
@@ -112,19 +112,19 @@ This table will only show the points of the tasks and how many points each membe
 | Week 8 / Planning                                                           | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
 | Total of the week                                                           | 1          | 2           | 3           | 1              | 8              | 2             |         |
 |                                                                             |            |             |             |                |                |               |         |
-| Total                                                                       | 32         | 14          | 15          | 13             | 23             | 26            |
+| Total                                                                       | 32         | 17          | 17          | 13             | 23             | 26            |
 
 ### Individual Contribution Metric
 
 | Member         | Second Delivery | % of total |
 | -------------- | --------------- | ---------- |
-| Axel Anaya     | 32              | 26.02%     |
-| Irving Poot    | 14              | 11.38%     |
-| Steven Chen    | 15              | 12.20%     |
-| Antonio Martín | 13              | 10.57%     |
-| Roberto Llanes | 23              | 18.70%     |
-| Raymundo Mora  | 26              | 21.14%     |
-| Total          | 123             | 100%       |
+| Axel Anaya     | 32              | 25.00%     |
+| Irving Poot    | 17              | 13.28%     |
+| Steven Chen    | 17              | 13.28%     |
+| Antonio Martín | 13              | 10.16%     |
+| Roberto Llanes | 23              | 17.97%     |
+| Raymundo Mora  | 26              | 20.31%     |
+| Total          | 128             | 100%       |
 
 | Task                                                           | Axel Anaya | Irving Poot | Steven Chen | Antonio Martín | Roberto Llanes | Raymundo Mora |         |
 | -------------------------------------------------------------- | ---------- | ----------- | ----------- | -------------- | -------------- | ------------- | ------- |
@@ -135,7 +135,7 @@ This table will only show the points of the tasks and how many points each membe
 | Usability Test Plan - Planning of usability tests              | 0          | 0           | 2           | 0              | 0              | 0             | ✅ Done |
 | Usability Test Plan - Test scenarios                           | 0          | 0           | 0           | 0              | 1              | 0             | ✅ Done |
 | Week 9 / Planning                                              | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
-| Total of the week                                              | 3          | 0           | 2           | 2              | 1              | 2             |         |
+| Total of the week                                              | 3          | 0           | 2           | 2              | 1              | 4             |         |
 |                                                                |            |             |             |                |                |               |         |
 | WEEK 10                                                        |            |             |             |                |                |               | STATUS  |
 | Prototyping                                                    | 5          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
@@ -150,6 +150,8 @@ This table will only show the points of the tasks and how many points each membe
 | Video audios                                                   | 2          | 2           | 2           | 2              | 2              | 2             | ✅ Done |
 | Week 11 / Planning                                             | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
 | Total of the week                                              | 5          | 7           | 7           | 4              | 7              | 4             |         |
+|                                                                |            |             |             |                |                |               |         |
+| Total                                                          | 14         | 7           | 9           | 6              | 8              | 8             |         |
 
 ### Individual Contribution Metric
 

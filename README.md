@@ -43,13 +43,13 @@ Also, we define a Fibonacci Score for each task, the individual contribution for
 
 | Member         | First Delivery | Second Delivery | Final Delivery | % of total |
 | -------------- | -------------- | --------------- | -------------- | ---------- |
-| Axel Anaya     | 25             | 32              | 14             | 21.13%     |
-| Irving Poot    | 27             | 14              | 7              | 14.29%     |
-| Steven Chen    | 22             | 15              | 9              | 13.69%     |
-| Antonio Martín | 22             | 13              | 6              | 12.20%     |
-| Roberto Llanes | 43             | 23              | 8              | 22.02%     |
-| Raymundo Mora  | 22             | 26              | 8              | 16.67%     |
-| Total          | 161            | 123             | 52             | 100%       |
+| Axel Anaya     | 25             | 32              | 14             | 20.82%     |
+| Irving Poot    | 27             | 17              | 7              | 14.96%     |
+| Steven Chen    | 22             | 17              | 9              | 14.08%     |
+| Antonio Martín | 22             | 13              | 6              | 12.02%     |
+| Roberto Llanes | 43             | 23              | 8              | 21.70%     |
+| Raymundo Mora  | 22             | 26              | 8              | 16.42%     |
+| Total          | 161            | 128             | 52             | 100%       |
 
 ## Reflective diaries
 
