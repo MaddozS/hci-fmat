@@ -27,12 +27,20 @@ Also, we define a Fibonacci Score for each task, the individual contribution for
 ## Products
 
 - [Requirements](Artifacts/Requirements.md)
-- [Natalia Castillo - Our Persona](Artifacts/Persona%20Profile.pdf)
+- [(Student) Natalia Castillo - Our Persona](Artifacts/StudentPersona.pdf)
+- [(Organizer) Antonio Montoya - Our Persona](Artifacts/EventPlannerPersona.pdf)
+- [(Community Leader) Karina González - Our Persona](Artifacts/CommunityLeaderPersona.pdf)
 - [Software Requirement Specification](https://docs.google.com/document/d/1ixKyyl27_yUNarjqch0HmAOMek8bJX1Y/edit?usp=sharing&ouid=112688572299281125157&rtpof=true&sd=true)
 
 ## Prototypes
 
 - [Wireframes](https://www.figma.com/file/27uvw2CDjEvAWJhQnQGpM4/Itivas?node-id=101%3A227&t=0LNd3COhUHOeVRqO-1)
+
+## Usability tests
+
+- [Usability Testing Plan](https://docs.google.com/document/d/1RlMW1gxT0zSXGGcqSxq8IaHzHp68YocDe69JEFOmYqQ/edit?usp=sharing)
+- [Test for Students](https://t.maze.co/163316891?guerilla=true&notrack=true)
+- [Test for Organizers and Community leaders](https://t.maze.co/163071637?guerilla=true&notrack=true)
 
 ## Delivery
 
@@ -43,13 +51,13 @@ Also, we define a Fibonacci Score for each task, the individual contribution for
 
 | Member         | First Delivery | Second Delivery | Final Delivery | % of total |
 | -------------- | -------------- | --------------- | -------------- | ---------- |
-| Axel Anaya     | 25             | 32              | 14             | 21.13%     |
-| Irving Poot    | 27             | 14              | 7              | 14.29%     |
-| Steven Chen    | 22             | 15              | 9              | 13.69%     |
-| Antonio Martín | 22             | 13              | 6              | 12.20%     |
-| Roberto Llanes | 43             | 23              | 8              | 22.02%     |
-| Raymundo Mora  | 22             | 26              | 8              | 16.67%     |
-| Total          | 161            | 123             | 52             | 100%       |
+| Axel Anaya     | 25             | 32              | 14             | 20.82%     |
+| Irving Poot    | 27             | 17              | 7              | 14.96%     |
+| Steven Chen    | 22             | 17              | 9              | 14.08%     |
+| Antonio Martín | 22             | 13              | 6              | 12.02%     |
+| Roberto Llanes | 43             | 23              | 8              | 21.70%     |
+| Raymundo Mora  | 22             | 26              | 8              | 16.42%     |
+| Total          | 161            | 128             | 52             | 100%       |
 
 ## Reflective diaries
 
