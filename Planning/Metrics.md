@@ -47,7 +47,7 @@ This table will only show the points of the tasks and how many points each membe
 | Raymundo Mora  | 22             | 13.66%     |
 | Total          | 161            | 100%       |
 
-## 📝 Second Delivery [In Progress 🚧]
+## 📝 Second Delivery [Done ✅]
 
 This table will only show the points of the tasks and how many points each member has in the second delivery.
 
@@ -125,3 +125,40 @@ This table will only show the points of the tasks and how many points each membe
 | Roberto Llanes | 23              | 18.70%     |
 | Raymundo Mora  | 26              | 21.14%     |
 | Total          | 123             | 100%       |
+
+| Task                                                           | Axel Anaya | Irving Poot | Steven Chen | Antonio Martín | Roberto Llanes | Raymundo Mora |         |
+| -------------------------------------------------------------- | ---------- | ----------- | ----------- | -------------- | -------------- | ------------- | ------- |
+| WEEK 9                                                         |            |             |             |                |                |               | STATUS  |
+| Usability Test Plan - Metrics                                  | 0          | 0           | 0           | 2              | 0              | 0             | ✅ Done |
+| Usability Test Plan - Prioritization of usability requirements | 0          | 0           | 0           | 0              | 0              | 4             | ✅ Done |
+| Usability Test Plan - Introduction                             | 2          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Usability Test Plan - Planning of usability tests              | 0          | 0           | 2           | 0              | 0              | 0             | ✅ Done |
+| Usability Test Plan - Test scenarios                           | 0          | 0           | 0           | 0              | 1              | 0             | ✅ Done |
+| Week 9 / Planning                                              | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Total of the week                                              | 3          | 0           | 2           | 2              | 1              | 2             |         |
+|                                                                |            |             |             |                |                |               |         |
+| WEEK 10                                                        |            |             |             |                |                |               | STATUS  |
+| Prototyping                                                    | 5          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Week 10 / Planning                                             | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Total of the week                                              | 6          | 0           | 0           | 0              | 0              | 0             |         |
+|                                                                |            |             |             |                |                |               |         |
+| WEEK 11                                                        |            |             |             |                |                |               | STATUS  |
+| Get users for testing                                          | 1          | 1           | 1           | 1              | 1              | 1             | ✅ Done |
+| Analyzing test results                                         | 0          | 3           | 3           | 0              | 0              | 0             | ✅ Done |
+| Video script                                                   | 1          | 1           | 1           | 1              | 1              | 1             | ✅ Done |
+| Video editing                                                  | 0          | 0           | 0           | 0              | 3              | 0             | ✅ Done |
+| Video audios                                                   | 2          | 2           | 2           | 2              | 2              | 2             | ✅ Done |
+| Week 11 / Planning                                             | 1          | 0           | 0           | 0              | 0              | 0             | ✅ Done |
+| Total of the week                                              | 5          | 7           | 7           | 4              | 7              | 4             |         |
+
+### Individual Contribution Metric
+
+| Member         | Final Delivery | % of total |
+| -------------- | -------------- | ---------- |
+| Axel Anaya     | 14             | 26.92%     |
+| Irving Poot    | 7              | 13.46%     |
+| Steven Chen    | 9              | 17.31%     |
+| Antonio Martín | 6              | 11.54%     |
+| Roberto Llanes | 8              | 15.38%     |
+| Raymundo Mora  | 8              | 15.38%     |
+| Total          | 52             | 100%       |
