@@ -27,12 +27,20 @@ Also, we define a Fibonacci Score for each task, the individual contribution for
 ## Products
 
 - [Requirements](Artifacts/Requirements.md)
-- [Natalia Castillo - Our Persona](Artifacts/Persona%20Profile.pdf)
+- [(Student) Natalia Castillo - Our Persona](Artifacts/StudentPersona.pdf)
+- [(Organizer) Antonio Montoya - Our Persona](Artifacts/EventPlannerPersona.pdf)
+- [(Community Leader) Karina González - Our Persona](Artifacts/CommunityLeaderPersona.pdf)
 - [Software Requirement Specification](https://docs.google.com/document/d/1ixKyyl27_yUNarjqch0HmAOMek8bJX1Y/edit?usp=sharing&ouid=112688572299281125157&rtpof=true&sd=true)
 
 ## Prototypes
 
 - [Wireframes](https://www.figma.com/file/27uvw2CDjEvAWJhQnQGpM4/Itivas?node-id=101%3A227&t=0LNd3COhUHOeVRqO-1)
+
+## Usability tests
+
+- [Usability Testing Plan](https://docs.google.com/document/d/1RlMW1gxT0zSXGGcqSxq8IaHzHp68YocDe69JEFOmYqQ/edit?usp=sharing)
+- [Test for Students](https://t.maze.co/163316891?guerilla=true&notrack=true)
+- [Test for Organizers and Community leaders](https://t.maze.co/163071637?guerilla=true&notrack=true)
 
 ## Delivery
 
