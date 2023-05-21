@@ -22,4 +22,4 @@ The test for students can be found [here](https://t.maze.co/163316891?guerilla=t
 
 ## Results
 
-You can find the analysis of the results [here](/Instruments/Analisis_test_usuarios.md).
+You can find the analysis of the results [here](/Artifacts/Analisis_test_usuarios.md).
