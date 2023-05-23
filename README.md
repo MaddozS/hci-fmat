@@ -31,6 +31,8 @@ Also, we define a Fibonacci Score for each task, the individual contribution for
 - [(Organizer) Antonio Montoya - Our Persona](Artifacts/EventPlannerPersona.pdf)
 - [(Community Leader) Karina González - Our Persona](Artifacts/CommunityLeaderPersona.pdf)
 - [Software Requirement Specification](https://docs.google.com/document/d/1ixKyyl27_yUNarjqch0HmAOMek8bJX1Y/edit?usp=sharing&ouid=112688572299281125157&rtpof=true&sd=true)
+- [Usability Testing Plan](https://docs.google.com/document/d/1RlMW1gxT0zSXGGcqSxq8IaHzHp68YocDe69JEFOmYqQ/edit#heading=h.9sbdbhl812rv)
+- [Report of the tests](Artifacts/Analisis_test_usuarios.md)
 
 ## Prototypes
 
@@ -46,6 +48,7 @@ Also, we define a Fibonacci Score for each task, the individual contribution for
 
 - [First Delivery Video Presentation](https://www.youtube.com/watch?v=l_xnPBCGPp4)
 - [Second Delivery Video Presentation](https://youtu.be/mgKs_KRnbRo)
+- [Final Delivery Video Presentation](https://www.youtube.com/watch?v=aViBohl6Q4U)
 
 ## Contribution percentage
 
